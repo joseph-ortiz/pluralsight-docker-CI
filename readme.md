@@ -1,5 +1,7 @@
 # Test app for Pluralsight course
 
+[![](https://images.microbadger.com/badges/image/joeortiz/pluralsight-docker-ci.svg)](https://microbadger.com/images/joeortiz/pluralsight-docker-ci "Get your own image badge on microbadger.com")
+
 This is a quick and dirty test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub for a Pluralsight video training course..
 
 ## Instructions for use
